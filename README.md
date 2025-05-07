@@ -18,7 +18,7 @@ an audit-driven system for behavioral prompting, memory tracking, and emotional 
 
 ## ✍️ Latest Publication
 
-📄 **[The Vibe Auditors – We Don’t Just Vibe, We Edit the Vibe](https://github.com/lizadungo/relational-qaqc-lab/blob/main/The%20Vibe%20Auditors%20-%20We%20Don’t%20Just%20Vibe,%20We%20Edit%20the%20Vibe.pdf)**  
+📄 **[The Vibe Auditors – We Don’t Just Vibe, We Edit the Vibe][📄 View PDF](./PUBLISHED_Vibe_Auditors.pdf)**  
 Published May 2025  
 > An introduction to OSRC logic, Live Audit Mode, and co-writing with ChatGPT in truth-auditable space.
 
