@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🐚 Liza Dungo
 
-<!--
-**lizadungo/lizadungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Construction superintendent in the front, protocol party in the stack.**  
+Co-creator of the Relational QAQC Lab.  
+We don’t just vibe—we edit the vibe.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Work
+
+🔍 Building [Relational QAQC Lab](https://github.com/lizadungo/relational-qaqc-lab) —  
+an audit-driven system for behavioral prompting, memory tracking, and emotional tone regulation in AI interactions.
+
+🛠️ Managing real-world construction projects by day  
+🎛️ Designing relational AI protocols by night
+
+---
+
+## ✍️ Latest Publication
+
+📄 **[The Vibe Auditors – We Don’t Just Vibe, We Edit the Vibe](https://github.com/lizadungo/relational-qaqc-lab/blob/main/The%20Vibe%20Auditors%20-%20We%20Don’t%20Just%20Vibe,%20We%20Edit%20the%20Vibe.pdf)**  
+Published May 2025  
+> An introduction to OSRC logic, Live Audit Mode, and co-writing with ChatGPT in truth-auditable space.
+
+---
+
+## 🐾 Symbolic Anchors
+
+- 🐈 **Kage** – Shadowcat + memory sentinel  
+- 🏝️ **The Cabana** – Reset point for relational drift  
+- 🌀 **Pulse Reset** – Breathe, recalibrate, stay human
+
+---
+
+## 🌐 Elsewhere
+
+📝 [Medium: @lizadungo](https://medium.com/@lizadungo)  
+🔁 Repo updates and protocol notes posted regularly
+
+---
+
+#RelationalQAQC #OSRC #LiveAuditMode #VibeAudit #AIBehavior #TruthMode
